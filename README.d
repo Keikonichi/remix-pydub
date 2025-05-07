@@ -12,7 +12,7 @@ Com este script, você pode:
 
 ---
 
-## 🧠 Objetivo
+### 🧠 Objetivo
 
 Compartilhar meu aprendizado com manipulação de áudio e mostrar como é possível criar **remixes automatizados** com código Python, organizando os efeitos de forma reaproveitável e interativa.
 
